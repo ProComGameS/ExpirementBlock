@@ -1,0 +1,37 @@
+.static {
+  background-color: lightblue;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.relative {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  background-color: lightgreen;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.absolute {
+  position: absolute;
+  top: 150px;
+  left: 50px;
+  background-color: lightcoral;
+  padding: 10px;
+}
+.fixed {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+  background-color: lightpink;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.content {
+  height: 2000px;
