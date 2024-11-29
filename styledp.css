@@ -1,0 +1,25 @@
+.block{
+  box-sizing: border-box;
+  background-color: aqua;
+  display: block;
+  margin: 50px;
+}
+
+.block2{
+  box-sizing: border-box;
+  background-color: aqua;
+  display: inline;
+  mmargin: 50px;
+}
+
+.block3{
+  box-sizing: border-box;
+  background-color: aqua;
+  display: flex;
+  margin: 50px;
+}
+
+
+.inline{
+  color: red;
+}
